@@ -23,6 +23,7 @@ function App() {
       <Traditional2 />
       <Solution />
       <Pricing />
+      <Answers />
       <Footer />
     </div>
   )
