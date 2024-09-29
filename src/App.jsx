@@ -8,6 +8,8 @@ import Traditional from './components/Traditional';
 import Traditional2 from './components/Traditional2';
 import Solution from './components/Solution';
 import Pricing from './components/Pricing';
+import Answers from './components/Answers';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -21,6 +23,7 @@ function App() {
       <Traditional2 />
       <Solution />
       <Pricing />
+      <Footer />
     </div>
   )
 }
